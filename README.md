@@ -61,7 +61,7 @@ This project utilizes **Power BI** to perform a basic ratio analysis, providing 
 ![Profitability Trend](https://github.com/YashRaj1240/Basic-Ratio-Analysis/blob/05b0498e81ccf84488b0b25f0d743e73e089cf9c/img1.png)
 *Figure 1: Trend of Profitability Ratios*
 
-![Liquidity Ratios](images/liquidity_ratios.png)
+![Liquidity Ratios](https://github.com/YashRaj1240/Basic-Ratio-Analysis/blob/738ace85b9256aae14824b74d3d54c5ab041ad06/img2.png)
 *Figure 2: Current Ratio vs. Cash Ratio*
 
 [Download the full Power BI PDF Report](docs/Basic_Ratio_Analysis.pdf)
