@@ -52,3 +52,18 @@ The full analysis and visualizations are available in the Power BI report. You c
 
 This Basic Ratio Analysis project is an efficient tool for understanding financial ratios through intuitive and interactive Power BI visualizations. It assists in evaluating the company’s financial health, making it useful for stakeholders and analysts in strategic decision-making processes.
 
+# Basic Ratio Analysis
+
+## Overview
+
+This project utilizes **Power BI** to perform a basic ratio analysis, providing insights into the financial health and performance of a business over a ten-year period (2010–2019).
+
+![Profitability Trend](images/profitability_trend.png)
+*Figure 1: Trend of Profitability Ratios*
+
+![Liquidity Ratios](images/liquidity_ratios.png)
+*Figure 2: Current Ratio vs. Cash Ratio*
+
+[Download the full Power BI PDF Report](docs/Basic_Ratio_Analysis.pdf)
+
+
