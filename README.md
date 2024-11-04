@@ -46,7 +46,7 @@ This project leverages Power BI’s interactive charts and graphs to visualize t
 
 The full analysis and visualizations are available in the Power BI report. You can download it here:
 
-[Download the Power BI PDF Report](Basic Ratio Analysis.pdf)
+[Download the Power BI PDF Report](https://github.com/YashRaj1240/Basic-Ratio-Analysis/blob/c1d2218da6b7efdb473cc591fc0e41402493d0d0/Basic%20Ratio%20Analysis.pdf)
 
 ## Conclusion
 
