@@ -58,7 +58,7 @@ This Basic Ratio Analysis project is an efficient tool for understanding financi
 
 This project utilizes **Power BI** to perform a basic ratio analysis, providing insights into the financial health and performance of a business over a ten-year period (2010–2019).
 
-![Profitability Trend](images/profitability_trend.png)
+![Profitability Trend](https://github.com/YashRaj1240/Basic-Ratio-Analysis/blob/05b0498e81ccf84488b0b25f0d743e73e089cf9c/img1.png)
 *Figure 1: Trend of Profitability Ratios*
 
 ![Liquidity Ratios](images/liquidity_ratios.png)
