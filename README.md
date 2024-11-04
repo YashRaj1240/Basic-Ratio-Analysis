@@ -1,5 +1,7 @@
 # Basic Ratio Analysis
 
+![Basic Ratio Analysis Dashboard](images/screenshot.png)
+
 ## Overview
 
 This project utilizes **Power BI** to perform a basic ratio analysis, providing insights into the financial health and performance of a business over a ten-year period (2010–2019). Through various financial ratios and visualizations, the project offers a clear view of profitability, liquidity, leverage, and asset utilization trends.
